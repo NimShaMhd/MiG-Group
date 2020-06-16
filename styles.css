@@ -29,6 +29,7 @@
 }
 .main-style{
   background-color: rgb(193, 241, 193);
+  width:100%
 }
 .sub-heading-style{
   padding-top: 99px;
@@ -37,7 +38,7 @@
 }
 .button-send-style{
   color:black;
-  width: 20%;
+  width: auto;
   height:35px;
 }
 .button-send-style:hover {
@@ -99,7 +100,7 @@
   padding-top: 32px;
 }
 .hr-heading{
-  width:25em;
+  width:60%;
   color:black
 }
 .row-class{
