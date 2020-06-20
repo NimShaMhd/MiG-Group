@@ -29,7 +29,7 @@
 }
 .main-style{
   background-color: rgb(193, 241, 193);
-  width:100%
+  width:100%;
 }
 .sub-heading-style{
   padding-top: 99px;
@@ -155,12 +155,8 @@
 }
 /*send.html css*/
 .logo-last{
-  padding-top: 83px;
-  width: 15em;
-  height: 21em;
+
   float: left;
-  margin-top: 1em;
-  margin-left:9em;
 
 }
 .thank-note{
