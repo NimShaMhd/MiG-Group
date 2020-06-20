@@ -155,10 +155,12 @@
 }
 /*send.html css*/
 .logo-last{
-  
-  padding-top: 90px;
-  
- 
+  padding-top: 83px;
+  width: 15em;
+  height: 21em;
+  float: left;
+  margin-top: 1em;
+  margin-left:6em;
 
 }
 .thank-note{
@@ -170,12 +172,9 @@ footer{
 }
 .thank-note-h1{
   font-style: oblique;
-  padding-left: 54px;
+ 
   font-size: 5em;
 }
 .thank-note-p{
   padding-left: 10em;
-}
-.main-send{
-  height: 419px;
 }
